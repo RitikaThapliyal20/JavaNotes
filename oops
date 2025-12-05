@@ -1,0 +1,20 @@
+Class:
+A class is a blueprint used to create objects.
+
+Object:
+An object is an instance of a class.
+
+Encapsulation:
+Wrapping data and methods together and restricting direct access using access modifiers.
+
+Inheritance:
+When a class derives properties and methods from another class (parent → child).
+
+Polymorphism:
+The ability of an object to take many forms (method overloading & overriding).
+
+Abstraction:
+Hiding implementation details and showing only essential features.
+
+Interface:
+A contract defining methods that a class must implement.
