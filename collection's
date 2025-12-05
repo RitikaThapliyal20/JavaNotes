@@ -1,0 +1,6 @@
+:)what is collection?
+-collection is a part of java collection framework.
+-it is used to fetch dynamic data unlike the array[fixed size].
+-contain interfaces like list,queue and sets.
+-Contains classes like ArrayList, HashSet, LinkedList.
+-provide algorithum sorting and searching.
