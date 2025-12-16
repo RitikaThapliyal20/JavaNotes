@@ -1,5 +1,5 @@
 Question-)What is Hashmap?
-Answer-)HashMap is used to store values as key-name pair
+Answer-)HashMap is used to store values as key-value pair
 Key points to remember for interviews:
 1)Stores key-value pairs.
 2)Unique keys (no duplicate keys allowed).
