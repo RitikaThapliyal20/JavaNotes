@@ -1,0 +1,13 @@
+Question-)What is Hashmap?
+Answer-)HashMap is used to store values as key-name pair
+Key points to remember for interviews:
+1)Stores key-value pairs.
+2)Unique keys (no duplicate keys allowed).
+
+Values can be duplicated.
+
+Unordered (does not maintain insertion order).
+
+Not synchronized (use ConcurrentHashMap for thread safety).
+
+Uses hashing internally for fast access.
